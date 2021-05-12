@@ -14,9 +14,6 @@ all, clean, fclean, re, bonus
 ## External functs. 
 ~~malloc~~, ~~free~~, write, va_start, va_arg, va_copy, va_end
 
-## Libft authorized 
-yes
-
 ## Notes of interest
 
 
